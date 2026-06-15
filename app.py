@@ -152,7 +152,7 @@ def metric_card(label, value):
 
 @st.cache_data
 def load_data():
-    alerts  = pd.read_csv("review_alerts.csv")
+    alerts  = pd.read_csv("review_alerts_small.csv")
     summary = pd.read_csv("business_summary.csv")
     return alerts, summary
 
