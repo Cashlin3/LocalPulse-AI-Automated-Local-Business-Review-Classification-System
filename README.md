@@ -1,6 +1,7 @@
 <div align="center">
 
 # LocalPulse AI
+**🏆 Winner of the Productivity Booster Prize 🏆**
 
 ### Automated Local Business Review Classification System
 
